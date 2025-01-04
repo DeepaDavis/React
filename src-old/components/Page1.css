@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
+
+
+.page1Container {
+  /* Linear gradient (top to bottom) */
+  background: linear-gradient(
+    to bottom, 
+    rgba(0, 0, 0, 0.5),  /* Start color with 50% opacity */
+    rgba(31, 30, 30, 0.8)   /* End color with 80% opacity */
+  ), 
+  url('../img/bg-page1.webp'); /* Fallback background image */
+  
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 700px;
+  color: #dbcfcf;  /* Ensures text contrast with dark background */
+}
+
+  .text1 {
+    font-size: 1.1rem; /* Small, uppercase text for the brand name */
+    text-transform: uppercase;
+    letter-spacing: 0.6em;
+    color: #c4baa6; /* Soft muted gold */
+    padding-top: 70px;
+  }
+  
+  .text2 {
+    padding-top: 90px;
+    font-size: 7rem; /* Large font for the main message */
+    font-family: "Kalam", cursive ;
+    /* font-weight: 60px; */
+    font-style: normal;
+    color: #ebe1ce; /* Light beige to contrast background */
+    letter-spacing: 0.1em;
+   
+  }
+  
+
+  .head3 {
+    padding-top: 30px;
+  }
+  
+  .btnn {
+        font-size: 1.2rem;
+    padding: 10px 90px;
+    text-transform: uppercase;
+    border: 2px solid #c4baa6; /* Border matching the muted gold */
+    background-color: transparent;
+    color: #c4baa6;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .btnn:hover {
+    background-color: #c4baa6; /* Button color on hover */
+    color: white;
+  }
+  
+  

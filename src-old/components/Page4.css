@@ -1,0 +1,23 @@
+
+.page4Container{   background-color: rgb(27, 23, 17); }
+.page4Parent{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding : 100px;
+}
+.page4Head{
+    padding-top: 50px;
+    font-family: "Kalam", cursive ;
+    font-size: 30px;
+    color: #f0debb; /* Light beige to contrast background */
+}
+.roundDiv{
+
+    height: 200px;
+    width: 200px;
+    background-color:transparent;
+    border:2px solid rgb(230, 218, 182);
+    border-radius: 110px;
+}

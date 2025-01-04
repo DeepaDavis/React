@@ -1,0 +1,51 @@
+.page2Container{
+    display: flex;
+    flex-direction: raw;
+    align-items: center;
+ }
+
+.page2Container
+{
+   background-color: black;
+   font-size: medium;
+   color: #c4b3b3;
+   align-content: center;
+}
+
+.page2Child1{
+    
+}
+
+.h5Child2{
+     padding: 15px;
+   font-family: "Kalam", cursive ;
+    font-weight: 60px; 
+    color: #ebe1ce; /* Light beige to contrast background */
+    letter-spacing: 0.1em;
+    font-size: 50px;
+}
+.paraChild2
+{
+    padding-top: 80px;
+    line-height: 1.49999732em;
+    direction: ltr;
+    text-align: left;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: 200;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+
+
+
+/* .page2Child2{
+
+    background: url('../img/bg-page2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-color: #cccccc; 
+    height: 700px;
+    color: #dbcfcf;  /* Ensures text contrast with dark background }*/
+

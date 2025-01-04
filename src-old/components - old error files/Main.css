@@ -1,0 +1,31 @@
+.Main-imgContainer1 {
+    background-image: url('../img/bg2.jpg'); /* Path to your image */
+    background-size: cover;   /* Ensures the image covers the entire container */
+    background-position: center;  /* Centers the image in the container */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    width: 100vw; /* Full width of the viewport */
+    height: 100vh; /* Full height of the viewport */
+    filter: brightness(70%); /* Reduces the brightness to 50% */
+}
+
+.Main-imgContainer2 {
+    background-image: url('../img/bg3.jpg'); /* Path to your image */
+    background-size: cover;   /* Ensures the image covers the entire container */
+    background-position: center;  /* Centers the image in the container */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    width: 100vw; /* Full width of the viewport */
+    height: 100vh; /* Full height of the viewport */
+    filter: brightness(70%); /* Reduces the brightness to 50% */
+}
+
+
+.Main-imgContainer3 {
+    background-image: url('../img/bg4.jpg'); /* Path to your image */
+    background-size: cover;   /* Ensures the image covers the entire container */
+    background-position: center;  /* Centers the image in the container */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    width: 100vw; /* Full width of the viewport */
+    height: 100vh; /* Full height of the viewport */
+    filter: brightness(70%); /* Reduces the brightness to 50% */
+}
+
